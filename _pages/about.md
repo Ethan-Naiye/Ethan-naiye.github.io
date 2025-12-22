@@ -11,6 +11,6 @@ I am now a master student at Renewable Energy with Artificial Intelligence and D
 
 My research interest includes multimodal longitudinal medical data modeling and multimodal large language model.
 
-You can find my CVn here: [Zihan Yu's Curriculm Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV here: [Zihan Yu's Curriculm Vitae](../assets/Curriculum_Vitae.pdf)
 
 I am also looking for potential research assistant/research intern opportunities in these fields.
