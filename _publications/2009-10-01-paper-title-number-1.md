@@ -1,7 +1,6 @@
 ---
 title: "Large Language Models in Critical Care Medicine: Scoping Review"
 collection: publications
-category: manuscripts
 permalink: https://medinform.jmir.org/2025/1/e76326
 
 excerpt: 'With the rapid development of artificial intelligence, large language models (LLMs) have shown strong capabilities in natural language understanding, reasoning, and generation, attracting much research interest in applying LLMs to health and medicine. Critical care medicine (CCM) provides diagnosis and treatment for patients with critical illness who often require intensive monitoring and interventions in intensive care units (ICUs). Whether LLMs can be applied to CCM, and whether they can operate as ICU experts in assisting clinical decision-making rather than “stochastic parrots,” remains uncertain. This scoping review aims to provide a panoramic portrait of the application of LLMs in CCM, identifying the advantages, challenges, and future potential of LLMs in this field.'
