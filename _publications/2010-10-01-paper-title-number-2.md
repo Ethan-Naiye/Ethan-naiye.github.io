@@ -1,6 +1,6 @@
 ---
 title: "Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey"
-collection: publication
+collection: publications
 category: Arxiv
 permalink: https://arxiv.org/abs/2410.07824
 excerpt: 'Change detection, as an important and widely applied technique in the field of remote sensing, aims to analyze changes in surface areas over time and has broad applications in areas such as environmental monitoring, urban development, and land use. In recent years, deep learning, especially the development of foundation models, has provided more powerful solutions for feature extraction and data fusion, effectively addressing these complexities. This paper systematically reviews the latest advancements in the field of change detection, with a focus on the application of foundation models in remote sensing tasks.'
