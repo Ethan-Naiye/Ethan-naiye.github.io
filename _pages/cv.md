@@ -14,31 +14,27 @@ Education
 * M.S. in Imperial College London, 2025-2026
 * B.S. in University of Liverpool, 2021-2025
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov,2024 - Sep,2025: Research Assistant
+  * University of Liverpool
+  * Vision Language Model for Image Deepfake Detection
+  * Supervisor: Dr. Guangliang Cheng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov,2023 - Oct,2024: Research Intern
+  * National Institute of Health Data Science, Peking University
+  * Large Language Model in Critical Care Medicine
+  * Supervisor: Dr. Guilan Kong
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct,2022 - May, 2023: Research Assistant
+  * Xi'an Jiaotong-Liverpool University
+  * VR Environment Design for Supporting Chinese Language Teaching
+  * Supervisor: Mr.Xiaoying Yuan
   
-Skills
+Intern experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jun,2024 – Sep,2024: Java Development Intern
+  * Gree Electric Appliances (Nanjing)
 
 Publications
 ======
@@ -46,18 +42,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
