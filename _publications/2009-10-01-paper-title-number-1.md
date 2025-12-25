@@ -1,14 +1,26 @@
 ---
-title: "Paper Title Number 1"
+title: "Large Language Models in Critical Care Medicine: Scoping Review"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: https://medinform.jmir.org/2025/1/e76326
+
+excerpt: '
+Background:
+With the rapid development of artificial intelligence, large language models (LLMs) have shown strong capabilities in natural language understanding, reasoning, and generation, attracting much research interest in applying LLMs to health and medicine. Critical care medicine (CCM) provides diagnosis and treatment for patients with critical illness who often require intensive monitoring and interventions in intensive care units (ICUs). Whether LLMs can be applied to CCM, and whether they can operate as ICU experts in assisting clinical decision-making rather than “stochastic parrots,” remains uncertain.
+
+Objective:
+This scoping review aims to provide a panoramic portrait of the application of LLMs in CCM, identifying the advantages, challenges, and future potential of LLMs in this field.
+
+Methods:
+This study was conducted in accordance with the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Literature was searched across 7 databases, including PubMed, Embase, Scopus, Web of Science, CINAHL, IEEE Xplore, and ACM Digital Library, from the first available paper to August 22, 2025.
+
+Results:
+From an initial 2342 retrieved papers, 41 were selected for final review. LLMs played an important role in CCM through the following 3 main channels: clinical decision support, medical documentation and reporting, and medical education and doctor-patient communication. Compared to traditional artificial intelligence models, LLMs have advantages in handling unstructured data and do not require manual feature engineering. Meanwhile, applying LLMs to CCM has faced challenges, including hallucinations and poor interpretability, sensitivity to prompts, bias and alignment challenges, and privacy and ethical issues.
+
+Conclusions:
+Although LLMs are not yet ICU experts, they have the potential to become valuable tools in CCM, helping to improve patient outcomes and optimize health care delivery. Future research should enhance model reliability and interpretability, improve model training and deployment scalability, integrate up-to-date medical knowledge, and strengthen privacy and ethical guidelines, paving the way for LLMs to fully realize their impact in critical care.'
+
+date: 2025-11-24
 venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
