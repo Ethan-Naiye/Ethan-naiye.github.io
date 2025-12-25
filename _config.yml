@@ -91,7 +91,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   arxiv:
-    title: 'arxiv'
+    title: 'Arxiv'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
