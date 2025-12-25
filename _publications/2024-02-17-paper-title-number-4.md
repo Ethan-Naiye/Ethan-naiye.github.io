@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "DRFormer: Dynamic Replay-Driven Transformer for Domain-Incremental Learning in Brain Tumor Segmentation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: https://link.springer.com/chapter/10.1007/978-981-96-9849-3_40
+excerpt: 'Recent research in brain tumor segmentation has shifted focus towards improving model adaptability through Domain-Incremental Learning (DIL). However, data heterogeneity across domains leads to catastrophic forgetting, and most replay-based methods are heavily reliant on the storage of original data. In this paper, we propose the Dynamic Replay-Driven Transformer (DRFormer) for Domain-Incremental Learning. Specifically, we introduce a strategy for dynamic feature replay, which eliminates the need for raw data storage by utilizing compressed domain representations extracted through a Global Encoder. Additionally, we design a Local Awareness Filtering Module (LAFM) to suppress domain-irrelevant features while aligning local correlations to reinforce domain-invariant representations. At the same time, we propose a Global Representation Calibration Module (GRCM), which refines global domain feature representations to ensure a more comprehensive and consistent knowledge retention process. Extensive experiments on four publicly available brain tumor MRI datasets demonstrate that DRFormer outperforms existing methods in both memory retention and generalization, offering a promising solution for domain-incremental medical image segmentation.'
+date: 2025-07-19
+venue: 'International Conference on Intelligent Computing'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Recent research in brain tumor segmentation has shifted focus towards improving model adaptability through Domain-Incremental Learning (DIL). However, data heterogeneity across domains leads to catastrophic forgetting, and most replay-based methods are heavily reliant on the storage of original data. In this paper, we propose the Dynamic Replay-Driven Transformer (DRFormer) for Domain-Incremental Learning. Specifically, we introduce a strategy for dynamic feature replay, which eliminates the need for raw data storage by utilizing compressed domain representations extracted through a Global Encoder. Additionally, we design a Local Awareness Filtering Module (LAFM) to suppress domain-irrelevant features while aligning local correlations to reinforce domain-invariant representations. At the same time, we propose a Global Representation Calibration Module (GRCM), which refines global domain feature representations to ensure a more comprehensive and consistent knowledge retention process. Extensive experiments on four publicly available brain tumor MRI datasets demonstrate that DRFormer outperforms existing methods in both memory retention and generalization, offering a promising solution for domain-incremental medical image segmentation.
