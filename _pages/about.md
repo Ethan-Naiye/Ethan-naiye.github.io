@@ -17,4 +17,4 @@ By harnessing the power of Multimodal Large Language Models, I work towards buil
 
 You can find my CV here: [Zihan Yu's CV](../assets/Curriculum_Vitae.pdf)
 
-I am also looking for potential research assistant/research intern opportunities in these fields.
+I am always looking for potential research intern/colaboration opportunities in these fields. If you are interested to chat with me, please feel free to drop me an email.
