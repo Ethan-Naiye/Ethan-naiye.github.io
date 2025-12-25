@@ -27,7 +27,7 @@ author:
   name             : "Zihan Yu"
   pronouns         : # example: "she/her"  
   bio              : "Work Life Balance"
-  location         : "London,UK"
+  location         : "London, UK"
   employer         : 
   uri              : # URL
   email            : "zihan.yu125@imperial.ac.uk" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Ethan-Naiye"
+  github           : "Ethan-Naiye"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
