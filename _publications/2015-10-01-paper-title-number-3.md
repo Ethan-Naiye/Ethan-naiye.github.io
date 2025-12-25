@@ -2,7 +2,7 @@
 title: "BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation"
 collection: publications
 category: arxiv
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://arxiv.org/abs/2505.12620
 excerpt: 'Advances in AI generative models facilitate super-realistic video synthesis, amplifying misinformation risks via social media and eroding trust in digital content. Several research works have explored new deepfake detection methods on AI-generated images to alleviate these risks. However, with the fast development of video generation models, such as Sora and WanX, there is currently a lack of large-scale, high-quality AI-generated video datasets for forgery detection. In addition, existing detection approaches predominantly treat the task as binary classification, lacking explainability in model decision-making and failing to provide actionable insights or guidance for the public. To address these challenges, we propose GenBuster-200K, a large-scale AI-generated video dataset featuring 200K high-resolution video clips, diverse latest generative techniques, emphasis on fairness, and focus on real-world scenes. We further introduce BusterX, a novel AI-generated video detection and explanation framework leveraging multimodal large language model and reinforcement learning to provide authenticity determination and explainable rationales. To our knowledge, BusterX is the first framework to integrate MLLM with RL for explainable AI-generated video detection. Extensive experiments with state-of-the-art methods and ablation studies demonstrate the effectiveness and generalizability of BusterX.'
 date: 2025-05-19
 venue: 'Arxiv'
