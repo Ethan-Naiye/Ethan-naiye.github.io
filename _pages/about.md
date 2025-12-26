@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zihan Yu (于子涵), currently a Master’s student in Renewable Energy with Artificial Intelligence and Data Science at Imperial College London. Prior to this, I obtained my Bachelor’s degree with First Class Honours from University of Liverpool in 2025. 
+I am Zihan Yu (于子涵), currently a Master student in Renewable Energy with Artificial Intelligence and Data Science at Imperial College London. Prior to this, I obtained my Bachelor’s degree with First Class Honours from University of Liverpool in 2025. 
 
 From 2024 to 2025, I worked as a Research Assistant at University of Liverpool, focusing on developing efficient Vision Language Models for image deepfake detection. Prior to that, I worked as a Research Intern at the National Institute of Health Data Science, Peking University from 2023-2024, where I explored the application of Large Language Models in critical care medicine.
 
